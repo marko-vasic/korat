@@ -110,3 +110,9 @@ CONTACT
 =======
 
 To contact the Korat team, see http://mir.cs.uiuc.edu/korat.
+
+ACKNOWLEDGMENTS
+===============
+
+Jeremy Boyd (UT Austin) transferred the repository from SVN to GIT in
+August 2015
